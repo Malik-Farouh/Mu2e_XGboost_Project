@@ -43,4 +43,4 @@ Thumbs.db
 # Model files (if you have large trained models)
 *.h5
 *.pkl
-*.joblib
+*.joblibvenv/
