@@ -1,0 +1,7 @@
+0	momerr	q
+1	fambig	q
+2	fitcon	q
+3	nactive	q
+4	factive	q
+5	t0err	q
+6	fstraws	q
