@@ -1,6 +1,6 @@
 # Mu2e_XGboost_Project
 
-This project documents a year of machine learning development focused on engineering an independent XGBoost classifier. This model serves as a robust cross-verification framework alongside the pre-existing Artificial Neural Network (ANN) model currently deployed in the Mu2e experiment's offline data pipeline.
+This project documents a year of machine learning development focused on engineering an independent XGBoost classifier. This model serves as a robust cross-verification framework alongside the pre-existing Artificial Neural Network model currently deployed in the Mu2e experiment's offline data pipeline.
 
 **Note on Project History:** This repository represents a full year of continuous local development, engineering, and experimental refinement. It was committed to GitHub as a complete, stable, and unified codebase.
 
