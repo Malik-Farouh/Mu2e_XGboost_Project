@@ -44,3 +44,6 @@ Thumbs.db
 *.h5
 *.pkl
 *.joblibvenv/
+venv/
+__pycache__/
+.DS_Store

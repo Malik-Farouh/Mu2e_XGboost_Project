@@ -1,0 +1,8 @@
+*.root
+*.h5
+*.dylib
+venv/
+lib/
+bin/
+share/
+
