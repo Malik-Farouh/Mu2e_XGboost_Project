@@ -38,5 +38,3 @@ c. **Install dependencies:**
 
 *Note for macOS Users: If generating tree visualizations or running layout components locally, ensure your machine has `libomp` and `graphviz` binary dependencies installed via Homebrew.*
 
-
-![XGBoost Tree Visual](output5.png)
