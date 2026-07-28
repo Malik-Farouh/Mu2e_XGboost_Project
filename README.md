@@ -1,6 +1,6 @@
 # Mu2e Tracking Quality Verification: XGBoost Framework
-[![Code Base: Production Stable](https://shields.io)](#)
-[![Physics Experiment: Mu2e Offline Pipeline](https://shields.io)](#)
+[![Code Base: Production Stable](https://img.shields.io/badge/Code%20Base-Production%20Stable-brightgreen)](#)
+[![Physics Experiment: Mu2e Offline Pipeline](https://img.shields.io/badge/Physics%20Experiment-Mu2e%20Offline%20Pipeline-blue)](#)
 
 This repository documents an exhaustive machine learning investigation focused on engineering an independent **XGBoost gradient-boosted decision tree (BDT)** classifier. This model serves as a high-precision, production-grade cross-verification framework running alongside the existing Artificial Neural Network (ANN) model currently deployed in the Mu2e experiment's offline track reconstruction pipeline.
 
@@ -67,7 +67,7 @@ To clone this repository and recreate the exact package workspace, ensure you ha
 
 ### a. Clone the Repository
 ```bash
-git clone https://github.com
+git clone https://github.com/<your-username>/Mu2e_XGboost_Project.git
 cd Mu2e_XGboost_Project
 ```
 
@@ -89,5 +89,3 @@ pip install -r requirements.txt
 ## Acknowledgments & Credits
 - **Malik Farouh** — Researcher, Feature Engineering, Pipeline Architecture, and Lead ML Developer.
 - **[Andrew Edmonds]** — Research Advisor, Theoretical Guidance, Programming Guidance, Mu2e Data Integration Strategies, and Core Scientific Contributor.
-
-*Special thanks to the Mu2e Collaboration*
