@@ -1,7 +1,0 @@
-0	nactive	q
-1	factive [fraction of active hits]	q
-2	t0err	q
-3	fambig [fraction of null ambiguities]	q
-4	fitcon	q
-5	momerr	q
-6	fstraws	q
