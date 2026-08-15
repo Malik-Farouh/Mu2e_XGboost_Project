@@ -19,7 +19,7 @@ This workspace utilizes a high-performance machine learning stack managed throug
 
 
 ##  2) Repository Architecture & Modular Walkthrough
-The codebase has been split into 4 dedicated, independent research chapters to prevent memory leaks and variable collisions:
+The codebase has been split into 4 dedicated, independent research chapters to prevent memory leaks and variable collisions. You will find these files inside the TrkQual folder:
 
 *   **`00_TrkQualTrain_main.ipynb`**: The master training pipeline. Handles raw feature loading from ROOT files, balances sample weights, tunes tree hyperparameters, trains the final 500-tree BDT ensemble, and save the model as .joblib for offline use.
 *   **`01_data_perturbation.ipynb`**: The file that is responsible for creating and perturbing all of the required data sets.
